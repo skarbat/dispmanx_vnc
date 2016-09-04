@@ -1,0 +1,12 @@
+Source: dispmanx-vncserver
+Maintainer: Albert Casals <skarbat@gmail.com>
+Section: x11
+Priority: optional
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>=9.0.0), libraspberrypi-dev, libjpeg-dev, libvncserver-dev
+
+Package: dispmanx-vncserver
+Architecture: armhf
+Depends: ${shlibs:Depends}, ${misc:Depends}, libraspberrypi0, libjpeg8, libvncserver0
+Description: Allows to view RaspberryPI DispmanX apps remotely over VNC
+

@@ -1,0 +1,5 @@
+dispmanx-vncserver (1.0-1) unstable; urgency=low
+
+  * Added screen saver run mode with hooks, and no icons loaded
+
+ -- Albert Casals <skarbat@gmail.com>  Sun, 4 Sep 2016 10:42:00 +0000

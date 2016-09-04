@@ -4,7 +4,7 @@
 #  Build dependencies: libvncserver-dev and libraspberrypi-dev
 #
 
-APP:=dispmanx_vncserver
+APP:=dispmanx-vncserver
 
 all: $(APP)
 
