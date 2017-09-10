@@ -1,3 +1,9 @@
+dispmanx-vncserver (1.1-1) unstable; urgency=low
+
+  * Fixed installation problem on Debian 9 Stretch
+
+ -- Albert Casals <skarbat@gmail.com>  Sun, 10 Sep 2017 13:00:00 +0100
+
 dispmanx-vncserver (1.0-1) unstable; urgency=low
 
   * Added screen saver run mode with hooks, and no icons loaded
